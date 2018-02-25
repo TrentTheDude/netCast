@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="netCast:jar">
+    <output-path>$PROJECT_DIR$/../../../1.8/plugins</output-path>
+    <root id="archive" name="netCast.jar">
+      <element id="module-output" name="netCast" />
+    </root>
+  </artifact>
+</component>

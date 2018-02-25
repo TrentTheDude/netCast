@@ -1,0 +1,7 @@
+name: netCast
+author: Frog
+main: Main
+version: 1.0
+commands:
+  netCast:
+    description: netCast main command!
